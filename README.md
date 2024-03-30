@@ -404,6 +404,3 @@
 [【 4. 大数据精彩应用 | 催债也能有超高用户体验 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487323&idx=1&sn=5cb0e99dd89334460983b4fa9193c3f0&chksm=c02974c4f75efdd2fe43578387c6c698ff1365cfd37ae4c216f22ea03bc08feba7677435b80f#rd)
 
 [【 5. 国内AI大模型已近200个，我心中的排名前十的是哪些？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487235&idx=1&sn=01f6da2224f4e17dcdd9d625b75d61db&chksm=c029749cf75efd8a899ca8115767fb3b983cfae2e82ba0e471be54a16c8998de8843f702e942#rd)
-
-[【 5. 国内AI大模型已近200个，我心中的排名前十的是哪些？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487235&idx=1&sn=01f6da2224f4e17dcdd9d625b75d61db&chksm=c029749cf75efd8a899ca8115767fb3b983cfae2e82ba0e471be54a16c8998de8843f702e942#rd)
-
