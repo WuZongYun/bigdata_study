@@ -1,6 +1,6 @@
 # 大数据学习文档、实战代码、源码解析、测试数据
 
-#### 包含python、mysql、shell、hadoop、hive、zookeeper、hbase、flume、kafka、spark、flink、dolphinscheduler、elasticsearch、sqoop、clickhouse、flinkcdc、canal、debezuim、datax、hudi、starrocks、iceberg、doris、cdh、superset、docker、kubernetes、strampark、maxwell等组件学习、实战、面试 持续更新中...
+#### 包含python、mysql、shell、 hadoop、hive、zookeeper、hbase、flume、kafka、spark、flink、dolphinscheduler、elasticsearch、sqoop、clickhouse、flinkcdc、canal、debezuim、datax、hudi、starrocks、iceberg、doris、cdh、superset、docker、kubernetes、strampark、maxwell等组件学习、实战、面试 持续更新中...
 
 
 ## 码字不易，路过的朋友们右上角请点个 ★star★ 鼓励一下~，感谢（抱拳）。
@@ -57,7 +57,7 @@
 
 [【 11.  一键搭建hadoop集群 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484538&idx=1&sn=89cfa05ecfc152464530e485bfcbb871&chksm=c0297fe5f75ef6f3451d87d6e910456d58c746ff6766cd585fba1f85dc881f5c4f7a5682ad18#rd)
 
-## [三、大数据基础环境准备]()
+## [三、大数据基础环境准备]( )
 
 [【 1. 安装虚拟机Centos7 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247484120&idx=1&sn=02422623ee659ea5a8b5485e55f7b0fa&chksm=c0297947f75ef0514dea5ec0b1ae66d6909addb0f61cbae409e5d37b9880dbf0927910c6d764#rd)
 
@@ -404,3 +404,6 @@
 [【 4. 大数据精彩应用 | 催债也能有超高用户体验 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487323&idx=1&sn=5cb0e99dd89334460983b4fa9193c3f0&chksm=c02974c4f75efdd2fe43578387c6c698ff1365cfd37ae4c216f22ea03bc08feba7677435b80f#rd)
 
 [【 5. 国内AI大模型已近200个，我心中的排名前十的是哪些？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487235&idx=1&sn=01f6da2224f4e17dcdd9d625b75d61db&chksm=c029749cf75efd8a899ca8115767fb3b983cfae2e82ba0e471be54a16c8998de8843f702e942#rd)
+
+[【 5. 国内AI大模型已近200个，我心中的排名前十的是哪些？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487235&idx=1&sn=01f6da2224f4e17dcdd9d625b75d61db&chksm=c029749cf75efd8a899ca8115767fb3b983cfae2e82ba0e471be54a16c8998de8843f702e942#rd)
+
