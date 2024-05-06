@@ -209,6 +209,16 @@
 
 [【 35. Flink调优 | 动态调整并行度  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487686&idx=1&sn=4deaf652e1e385592804a02946d542e1&chksm=c0296b59f75ee24f33e5629c8e4394d91bd28101312ddbb8839df1e3545fd03dc8cd5c792480#rd)
 
+[【 36. Flink调优 | 自适应查询执行  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487688&idx=1&sn=f6d218f32743da08db7bd6310fbf5706&chksm=c0296b57f75ee241a6f6ef5a8d5482ee3aa38a094fce2523e007da73ea6a756e585be6f07c69#rd)
+
+[【 37. Flink 反压机制详解  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487710&idx=1&sn=424915f406fb40edf0a496545eea3a9e&chksm=c0296b41f75ee257ed5a629c2a57e337e681121daca2f63534579f0a17540d56a4c63297a76d#rd)
+
+[【 38. Flink 反压机制详解  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487710&idx=1&sn=424915f406fb40edf0a496545eea3a9e&chksm=c0296b41f75ee257ed5a629c2a57e337e681121daca2f63534579f0a17540d56a4c63297a76d#rd)
+
+[【 39. FlinkSQL 用户自定义connector 扩展实战  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487951&idx=1&sn=b9d386b86572946b54c0593083a13e9f&chksm=c0296a50f75ee346e9875f172c0fadc9b5e6dd7e372a6ce5bbe3499b30e4021bd753a73fcbb4#rd)
+
+[【 40. Flink State Processor Api 读写 Flink State 实战  】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487968&idx=1&sn=d1b42bb30de289df4b5a5a4c6a42b272&chksm=c0296a7ff75ee369b8a67433d0ac0510ba4d1c165766bb1228f239c58952e647bed40d18095e#rd)
+
 ## [**十二、dolphinscheduler**]()
 
 [【 1. dolphinscheduler 定时任务编写详细教程 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485001&idx=1&sn=783e8f9ee3dbcdd7b0dc7342f872ea7f&chksm=c0297dd6f75ef4c044efc506a854dfb57cd5a2ebb7a42e3de56e6b02a3ba6dea54080f542e27#rd)
@@ -319,6 +329,8 @@
 
 ## [**二十六、superset**]()
 
+[【 1. Superset整合Doris进行报表开发实战 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488355&idx=1&sn=5c1d1f30bb47f6b14f105fb0c57dddf9&chksm=c02968fcf75ee1ea7955cbc2fe69561041233e67ac179aac2bb8ae8ac36ec346dafb9e55e242#rd)
+
 ## [**二十七、docker**]()
 
 ## [**二十八、kubernetes**]()
@@ -349,6 +361,12 @@
 
 [【 5. dolphinscheduler+flink+seatunnel集成详细教程 】](https://mp.weixin.qq.com/s/CldBP03Pr35S3tq2mQoocA)
 
+[【 6. Seatunnel 热门问题解答 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488063&idx=2&sn=712687474fb002d1252346e81a8c6f8d&chksm=c02969a0f75ee0b62beb7f3d9e9c245deb844b99fb7133461182a3116527f4d5e1e8ae365f50#rd)
+
+[【 7. SeaTunnel配置秘籍 | 400页文档详尽指南 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488486&idx=1&sn=a163d9713691b8943f9a737fe4d981d1&chksm=c0296879f75ee16f26cc4e96c45eaa912236cb4f8e8a41844fea7eab52ec71f00fa404aa71a1#rd)
+
+[【 8. SeaTunnel配置大全 | 50页详解Transform 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488493&idx=1&sn=e791942b3ffe0c5616f15b95185f9990&chksm=c0296872f75ee164a96df5528f4746a4a63edd9b947afb4107b985484f65eea48a44d4d3f51c#rd)
+
 ## [**三十四、Dinky**]()
 
 [【 1. Dinky0.7安装详细教程... 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487304&idx=1&sn=57b2e098e026921d3787bfb4c686ff30&chksm=c02974d7f75efdc132020f85756e2d460f2f5a658356c10c28cf0044ebb6d0a8bfa555e1ae6e#rd)
@@ -368,6 +386,12 @@
 [【 2. 面试数据治理工程师，让介绍一下什么是数据治理 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485284&idx=1&sn=6c88ae8e2125557530288cb2c4177e9b&chksm=c0297cfbf75ef5ed2c38c5f0653900a09b8c5d90d04c9f1d905191489414af0cd8e61f9d7ad6#rd)
 
 [【 3. Flink面试高频题：Flink两阶段提交 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485327&idx=1&sn=b80ddd7700d246d9afb9dac3621cbe2c&chksm=c0297c10f75ef50619606682579a6ad0b8fd00ce2a5f3b5bfcf5205057c3183795b1fb3ab67d#rd)
+
+## [**三十七、Trino**]()
+
+[【 1. 联邦查询神器Trino初体验 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487740&idx=1&sn=3186efe76781f391dee93362159562aa&chksm=c0296b63f75ee275ed853602d374263256f7c42d874b0ceb6060fd87f3365c038a9d4ab4ee47#rd)
+
+[【 2. Trino联邦查询Mysql,Sqlserver,Kafka实战 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487930&idx=1&sn=c7ab4c44379f657bab24c93d69c5a81b&chksm=c0296a25f75ee3333cbb451b42f24af02e778933d39e7bd790bff64bc91a97ecdddd8c1d8900#rd)
 
 ## [**大数据技能总结**]()
 
@@ -393,6 +417,46 @@
 
 [【 11. 数据仓库的起源，流行及未来 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247485470&idx=1&sn=dbff8ee3c64d6baf043e1d8bdd8ac854&chksm=c0297381f75efa97c8721150025b754d6b79f9b3b704d6ac91a7e16a63292d782858ec09c0d6#rd)
 
+## [**实时离线数仓V1**]()
+
+[【 1. 大数据版《上春山》 | 《实时/离线数仓实战》系列视频文章抢鲜发布 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487999&idx=1&sn=274e37100388f1235c11b9ffebd94430&chksm=c0296a60f75ee3763ed6d54246a9ffd8e13b303397510b260dbd48d4b056eeb23720d9252eef#rd)
+
+[【 2. 建议收藏 | 《实时/离线数仓实战》配套组件安装文档 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488026&idx=1&sn=371ce807d8a42b3c50a9c390070250e7&chksm=c0296985f75ee0931cbd1724862abff1b6ef661082dd1cecf4b30d57c8b221b1ca2f7c2b510b#rd)
+
+[【 3. 视频 | 实时离线数仓实战NO.1 概览篇 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488063&idx=1&sn=10ecc03fccfc90649e308aa8c357dcaf&chksm=c02969a0f75ee0b67769fba698b2a00746eb25ffcf19f1f56e324dea33a315703754f0736b2c#rd)
+
+[【 4. 视频 | 实时离线数仓实战No.2 业务库设计及模拟数据一键生成 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488112&idx=1&sn=61d41367a5f1ae2a21e4fb38627b82eb&chksm=c02969eff75ee0f9eed5d20c5b1f35613e67d9b180acd2722537e6bd7d5e0e2ca7843231f3b4#rd)
+
+[【 5. 视频 | 实时离线数仓实战No.3 Flink消费Kafka实时写入 Paimon ods 层 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488141&idx=1&sn=1e7e3c705d517a4e5b29c86fbd8b2043&chksm=c0296912f75ee00464fee21fa202447cbf4da6bb8c140a48878126d0a8fd414b0549531fc4ab#rd)
+
+[【 6. 视频 | 实时离线数仓实战No.4 Dolphinscheduler搭配Seatunnel定时同步MySQL数据到Doris 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488177&idx=1&sn=bac06c1fd0f5400f36dff41a1bf3c3c5&chksm=c029692ef75ee038e9dbbe47c5743d03ca7fa87871760fa02b2c0c4d9e8e3b92f931a99d4652#rd)
+
+[【 7. 视频 | 实时离线数仓实战No.5 基于Dinky开发FlinkSQL清洗Paimon ODS层数据到DWD层 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488198&idx=1&sn=b731e8ba24fd1a771af10dc928457172&chksm=c0296959f75ee04fe38081af57353efedf0eea35bc384bf260db1a18a7abea38d414116436ad#rd)
+
+[【 8. 视频 | 实时离线数仓实战No.6 DS调度DorisSQL清洗ODS层数据到DWD层 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488219&idx=1&sn=d46f68ac955f2bd49bb983a158d3961c&chksm=c0296944f75ee0529d1d063a7a55f128d78189cea207810e8797157170c8c385ffc4d2ed9629#rd)
+
+[【 9. 视频 | 实时离线数仓实战No.7 基于Dinky开发Flink代码聚合Paimon DWD数据到DWS层 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488237&idx=1&sn=5d1a9111ee7ffd876d042309e61c1bbc&chksm=c0296972f75ee064bc064f532f8dc5a971ab8080db1e09f9407fff1072f487e257bc82ab8881#rd)
+
+[【 10. 实时离线数仓实战No.8 基于Dolphinscheduler调度DorisSQL聚合DWD数据到DWS层 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488252&idx=1&sn=3f9aad63cf8f82849ba3c176ee65db85&chksm=c0296963f75ee07593c3ccf0a582eec28bb94ce9c5bbf7df65fc0c7b9aec2274087a8495fe6a#rd)
+
+[【 11. 视频 | 实时离线数仓实战No.9 基于Dinky开发Flink代码关联DWS数据到ADS层 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488291&idx=1&sn=0764ec2eaf2795f2f6df5012dadd9a63&chksm=c02968bcf75ee1aa671889f2a3ca263a354336eb1515da66e1aab65fddbf85d339ba04ec0162#rd)
+
+[【 12. 实时离线数仓实战No.10 DolphinScheduler调度DorisSQL 关联DWS层到ADS层 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488330&idx=1&sn=e6877da82eadeedefede7e1b1b148814&chksm=c02968d5f75ee1c38aa3088f235c7214d32115b464ae37a824c25d24c3d3d49cc9e667cdd098#rd)
+
+[【 13. 视频 | 实时离线数仓实战No.10 dolphinscheduler任务编排 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488410&idx=1&sn=e7f6b20cb4869b4ab414e9cd05a5fe51&chksm=c0296805f75ee1134495ac87af61d67ea63bdf2ad75219bd62c82880709b6ae73b89825ce023#rd)
+
+[【 14. 《实时离线数仓实战》第一阶段总结及第二阶段展望 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488426&idx=1&sn=6fe3666f5157c651c08a0c8862c1efad&chksm=c0296835f75ee123aea07d323cadaafdd8699a6e3c2263462d80e73d6efe3312ea454c4b9441#rd)
+
+## [**实时离线数仓V2**]()
+
+[【 1. 实时离线数仓实战V2 | 发布预告 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488611&idx=1&sn=c5474d6765bb325ac096a5b808f528d5&chksm=c0296ffcf75ee6ea73c755520b63d04f4824813f6bea3e012d23a2d6ade03a19d1b8dfb59ec0#rd)
+
+## [**AI应用开发**]()
+
+[【 1. AI榜单开源啦！欢迎各位圈友体验 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488315&idx=1&sn=0aef49281823f504b8b57a96b543244a&chksm=c02968a4f75ee1b249aae67a55e0e880c0be20013d6c08066b0f9b1504133cd87b802ea119df#rd)
+
+[【 2. AI榜单使用手册 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488315&idx=2&sn=dadc6c685fb1c55d8f18e431fb72dc94&chksm=c02968a4f75ee1b24969bc19c09cace788da1bf27538a02ee02ab1bbd6167902a19be300ee37#rd)
+
 ## [**其他**]()
 
 [【 1. 超级惊艳的一款免费在线画图工具，完美适配程序员! 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487344&idx=1&sn=b0ea667c3e5ae137b8cf3f8479f57183&chksm=c02974eff75efdf9279353668616340ddfaa706f2ffeb480a3e27b5eb3f1f2eefa3d79239de3#rd)
@@ -404,3 +468,15 @@
 [【 4. 大数据精彩应用 | 催债也能有超高用户体验 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487323&idx=1&sn=5cb0e99dd89334460983b4fa9193c3f0&chksm=c02974c4f75efdd2fe43578387c6c698ff1365cfd37ae4c216f22ea03bc08feba7677435b80f#rd)
 
 [【 5. 国内AI大模型已近200个，我心中的排名前十的是哪些？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247487235&idx=1&sn=01f6da2224f4e17dcdd9d625b75d61db&chksm=c029749cf75efd8a899ca8115767fb3b983cfae2e82ba0e471be54a16c8998de8843f702e942#rd)
+
+[【 6. 自从用了这款开源大数据平台监控系统 HertzBeat ，睡觉超级香 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488439&idx=1&sn=d77476bb2bcf81d2f32e59e40651730a&chksm=c0296828f75ee13e4f40f9fdddd17afb87dc2d701704032c762a97d1bf7b5d91bbe873dd376f#rd)
+
+[【 7. 数据可视化新篇章：Superset之后，Datart如何重塑行业格局？ 】](https://mp.weixin.qq.com/s?__biz=Mzg5Mzg3MzkwNA==&mid=2247488465&idx=1&sn=c615f072c0c6c78fd44a2e227c23f7ab&chksm=c029684ef75ee1588005ffbd2202cfe264dbcb29a0aba717955c59c0c62d27dc1350c149f8cc#rd)
+
+关注微信公众号《大数据技能圈》
+
+![公众号](imges/gongzhonghao.jpg)
+
+添加作者微信
+
+![作者微信](imges/weixin.jpg)
